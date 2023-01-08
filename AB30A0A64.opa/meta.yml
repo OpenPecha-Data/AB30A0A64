@@ -1,0 +1,19 @@
+id: AB30A0A64
+title: In Praise of Jamyang Khyentse Wangpo
+type: translation
+pechas:
+- IF3125627
+- IA82A9949
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:35:08.337597
+  last_modified_at: 2023-01-04 12:35:08.337603
+  collections:
+  - Jamyang Khyentse Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IF3125627/4B4F: F670
+  IA82A9949/9DE4: F670
